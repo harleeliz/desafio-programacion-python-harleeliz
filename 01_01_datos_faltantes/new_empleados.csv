@@ -57,8 +57,8 @@ Felipa;Femenino;Soltero(a);26.0;5.0;2639.0;No;Comercial
 Felipe;Masculino;Soltero(a);27.0;3.0;2456.0;No;Publicidad
 Flora;Femenino;Soltero(a);20.0;2.0;2256.0;No;Producto
 Florina;Femenino;Divorciado(a);55.0;33.0;5462.0;No;IT
-Francisca;Femenino;Divorciado(a);23.0;2.0;2270.0;No;Legal
 Francisca;Femenino;Soltero(a);27.0;4.0;2564.0;No;IT
+Francisca;Femenino;Divorciado(a);23.0;2.0;2270.0;No;Legal
 Francisco;Masculino;Casado(a);34.0;8.0;2920.0;No;Reclutamiento
 Fulgencio;Masculino;Casado(a);37.0;10.0;3117.0;No;Finanzas
 Gabriela;Femenino;Soltero(a);37.0;13.0;3409.0;No;IT
@@ -78,9 +78,9 @@ Jesse;Masculino;Soltero(a);34.0;11.0;3257.0;No;Publicidad
 Joaquina;Femenino;Casado(a);27.0;1.0;2007.0;No;Comercial
 Joaquina;Femenino;Casado(a);54.0;25.0;4657.0;Sí;Producto
 John;Masculino;Casado(a);35.0;13.0;3431.0;Sí;Servicios al cliente
+Jose;Masculino;Casado(a);30.0;6.0;2760.0;No;Servicios al cliente
 Jose;Masculino;Casado(a);30.0;4.0;2513.0;No;Comercial
 Jose;Masculino;Soltero(a);21.0;3.0;2300.0;No;Servicios al cliente
-Jose;Masculino;Casado(a);30.0;6.0;2760.0;No;Servicios al cliente
 Juan;Masculino;Divorciado(a);37.0;3.0;2325.0;No;Servicios al cliente
 Kevin;Masculino;Soltero(a);50.0;8.0;2985.0;Sí;Finanzas
 Leandro;Masculino;Casado(a);37.0;11.0;3245.0;No;Finanzas
@@ -91,13 +91,12 @@ Lino;Masculino;Casado(a);26.0;5.0;2662.0;No;Legal
 Lorenzo;Masculino;Soltero(a);24.0;3.0;2335.0;No;Recursos Humanos
 Loreto;Masculino;Soltero(a);22.0;3.0;2492.0;No;Producto
 Loreto;Masculino;Soltero(a);21.0;3.0;2432.0;No;Producto
-Lucho;Masculino;Divorciado(a);40.0;3.0;2385.0;No;Finanzas
 Lucho;Masculino;Casado(a);22.0;4.0;2507.0;No;Ventas
-Lucio;Masculino;Soltero(a);54.0;12.0;3317.0;No;Recursos Humanos
+Lucho;Masculino;Divorciado(a);40.0;3.0;2385.0;No;Finanzas
 Lucio;Masculino;Soltero(a);54.0;12.0;3317.0;No;Recursos Humanos
 Luis;Masculino;Divorciado(a);51.0;25.0;4681.0;No;Comercial
-Luisa;Femenino;Soltero(a);29.0;5.0;2648.0;No;Contabilidad
 Luisa;Femenino;Soltero(a);47.0;9.0;3020.0;No;Legal
+Luisa;Femenino;Soltero(a);29.0;5.0;2648.0;No;Contabilidad
 Luna;Femenino;Soltero(a);35.0;6.0;2772.0;No;Recursos Humanos
 Lupita;Femenino;Casado(a);44.0;14.0;3532.0;No;Producto
 Luz;Femenino;Divorciado(a);29.0;4.0;2592.0;No;Servicios al cliente
@@ -128,7 +127,6 @@ Ruperta;Femenino;Casado(a);54.0;18.0;3962.0;No;Producto
 Samanta;Femenino;Casado(a);20.0;2.0;2298.0;No;IT
 Santiago;Masculino;Soltero(a);19.0;1.0;1920.0;No;Legal
 Sean;Masculino;Soltero(a);36.0;2.0;2114.0;No;Ventas
-Selena;Femenino;Casado(a);24.0;6.0;2709.0;Sí;Contabilidad
 Selena;Femenino;Casado(a);24.0;6.0;2709.0;Sí;Contabilidad
 Shaun;Masculino;Casado(a);28.0;6.0;2796.0;No;Comercial
 Soledad;Femenino;Divorciado(a);21.0;3.0;2477.0;No;IT
