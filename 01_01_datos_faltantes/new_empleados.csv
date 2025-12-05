@@ -1,0 +1,146 @@
+﻿Nombre;Sexo;Estado_Civil;Edad;Experiencia;Salario;Gerencia;Departamento
+Aaron;Masculino;Soltero(a);45.0;9.0;3093.0;Sí;Publicidad
+Adalberto;Masculino;Casado(a);21.0;2.0;2249.0;No;Legal
+Adela;Femenino;Divorciado(a);21.0;3.0;2467.0;No;Contabilidad
+Adelia;Femenino;Casado(a);25.0;3.0;2477.0;No;Contabilidad
+Agustina;Femenino;Casado(a);21.0;3.0;2371.0;No;Servicios al cliente
+Albert;Masculino;Casado(a);28.0;4.0;2527.0;No;Recursos Humanos
+Albino;Masculino;Casado(a);21.0;2.0;2207.0;No;Comercial
+Alexandro;Masculino;Soltero(a);22.0;3.0;2423.0;No;Publicidad
+Alfonso;Masculino;Casado(a);32.0;10.0;3134.0;No;Publicidad
+Alicia;Femenino;Casado(a);24.0;4.0;2507.0;No;Servicios al cliente
+Amada;Femenino;Divorciado(a);30.0;3.0;2443.0;No;Producto
+Amada;Femenino;Soltero(a);21.0;2.0;2274.0;No;Producto
+Amado;Masculino;Soltero(a);29.0;2.0;2221.0;No;Legal
+Amancio;Masculino;Casado(a);46.0;9.0;3054.0;Sí;Recursos Humanos
+Ana;Femenino;Divorciado(a);47.0;5.0;2625.0;No;Contabilidad
+Ana;Femenino;Soltero(a);54.0;8.0;2953.0;Sí;Contabilidad
+Angela;Femenino;Soltero(a);19.0;1.0;2100.0;No;IT
+Anselma;Femenino;Casado(a);18.0;0.0;1887.0;No;Contabilidad
+Ariel;Masculino;Casado(a);27.0;2.0;2100.0;No;Legal
+Aureliano;Masculino;Soltero(a);22.0;4.0;2524.0;No;Publicidad
+Belen;Femenino;Soltero(a);29.0;4.0;2596.0;No;Contabilidad
+Berta;Femenino;Casado(a);65.0;27.0;4888.0;No;IT
+Carina;Femenino;Casado(a);29.0;1.0;1904.0;No;Producto
+Carlota;Femenino;Soltero(a);25.0;3.0;2317.0;No;Recursos Humanos
+Carmelo;Masculino;Casado(a);29.0;2.0;2250.0;No;Comercial
+Celia;Femenino;Casado(a);32.0;11.0;3260.0;No;Comercial
+Celso;Masculino;Casado(a);47.0;15.0;3646.0;No;Recursos Humanos
+Cirino;Masculino;Divorciado(a);28.0;4.0;2581.0;No;Comercial
+Clara;Femenino;Soltero(a);24.0;3.0;2347.0;No;Comercial
+Clarisa;Femenino;Casado(a);56.0;8.0;2972.0;Sí;IT
+Consuelo;Femenino;Divorciado(a);24.0;1.0;2091.0;No;Contabilidad
+Corey;Masculino;Casado(a);58.0;32.0;5360.0;No;Producto
+Daisy;Femenino;Casado(a);61.0;8.0;2902.0;No;Ventas
+Daniel;Masculino;Casado(a);18.0;0.0;1875.0;No;Publicidad
+Daniel;Masculino;Casado(a);35.0;10.0;3122.0;No;Comercial
+David;Masculino;Divorciado(a);20.0;1.0;1977.0;No;Recursos Humanos
+Dionisia;Femenino;Soltero(a);32.0;8.0;2936.0;Sí;Producto
+Dionisio;Masculino;Casado(a);47.0;20.0;4168.0;No;Comercial
+Douglas;Masculino;Casado(a);40.0;6.0;2735.0;No;Legal
+Elena;Femenino;Casado(a);24.0;2.0;2101.0;No;Legal
+Eliana;Femenino;Casado(a);28.0;6.0;2779.0;No;Comercial
+Eligia;Femenino;Soltero(a);24.0;3.0;2453.0;No;Ventas
+Eliseo;Masculino;Casado(a);36.0;7.0;2900.0;No;Ventas
+Elodia;Femenino;Divorciado(a);21.0;3.0;2462.0;No;IT
+Emilio;Masculino;Divorciado(a);18.0;0.0;1872.0;No;IT
+Erasmo;Masculino;Divorciado(a);37.0;2.0;2148.0;No;Publicidad
+Eric;Masculino;Casado(a);19.0;1.0;1964.0;No;Legal
+Eric;Masculino;Divorciado(a);34.0;6.0;2745.0;No;Ventas
+Ernesto;Masculino;Divorciado(a);51.0;11.0;3233.0;No;Publicidad
+Estela;Femenino;Casado(a);55.0;5.0;2675.0;No;Servicios al cliente
+Eugenio;Masculino;Casado(a);45.0;18.0;3908.0;No;Ventas
+Eva;Femenino;Casado(a);44.0;12.0;3373.0;Sí;Comercial
+Eva;Femenino;Soltero(a);33.0;8.0;2931.0;Sí;Comercial
+Fanny;Femenino;Casado(a);32.0;7.0;2843.0;No;IT
+Felipa;Femenino;Soltero(a);26.0;5.0;2639.0;No;Comercial
+Felipe;Masculino;Soltero(a);27.0;3.0;2456.0;No;Publicidad
+Flora;Femenino;Soltero(a);20.0;2.0;2256.0;No;Producto
+Florina;Femenino;Divorciado(a);55.0;33.0;5462.0;No;IT
+Francisca;Femenino;Divorciado(a);23.0;2.0;2270.0;No;Legal
+Francisca;Femenino;Soltero(a);27.0;4.0;2564.0;No;IT
+Francisco;Masculino;Casado(a);34.0;8.0;2920.0;No;Reclutamiento
+Fulgencio;Masculino;Casado(a);37.0;10.0;3117.0;No;Finanzas
+Gabriela;Femenino;Soltero(a);37.0;13.0;3409.0;No;IT
+Gabriela;Femenino;Soltero(a);19.0;1.0;1985.0;No;Producto
+Gala;Femenino;Divorciado(a);40.0;1.0;1946.0;No;IT
+Gloria;Femenino;Casado(a);31.0;11.0;3267.0;No;Servicios al cliente
+Herberto;Masculino;Casado(a);28.0;3.0;2391.0;No;Servicios al cliente
+Herberto;Masculino;Soltero(a);33.0;12.0;3364.0;No;Servicios al cliente
+Herminia;Femenino;Soltero(a);34.0;9.0;3010.0;No;Publicidad
+Hernando;Masculino;Divorciado(a);29.0;4.0;2510.0;No;IT
+Hilario;Masculino;Casado(a);45.0;10.0;3166.0;No;Contabilidad
+Iker;Masculino;Divorciado(a);39.0;11.0;3287.0;No;Legal
+Isabela;Femenino;Casado(a);66.0;12.0;3344.0;No;Contabilidad
+James;Masculino;Casado(a);46.0;20.0;4154.0;No;Recursos Humanos
+Jennifer;Femenino;Soltero(a);22.0;1.0;1930.0;No;Servicios al cliente
+Jesse;Masculino;Soltero(a);34.0;11.0;3257.0;No;Publicidad
+Joaquina;Femenino;Casado(a);27.0;1.0;2007.0;No;Comercial
+Joaquina;Femenino;Casado(a);54.0;25.0;4657.0;Sí;Producto
+John;Masculino;Casado(a);35.0;13.0;3431.0;Sí;Servicios al cliente
+Jose;Masculino;Casado(a);30.0;4.0;2513.0;No;Comercial
+Jose;Masculino;Soltero(a);21.0;3.0;2300.0;No;Servicios al cliente
+Jose;Masculino;Casado(a);30.0;6.0;2760.0;No;Servicios al cliente
+Juan;Masculino;Divorciado(a);37.0;3.0;2325.0;No;Servicios al cliente
+Kevin;Masculino;Soltero(a);50.0;8.0;2985.0;Sí;Finanzas
+Leandro;Masculino;Casado(a);37.0;11.0;3245.0;No;Finanzas
+Leandro;Masculino;Divorciado(a);21.0;3.0;2322.0;No;Contabilidad
+Leire;Femenino;Casado(a);42.0;2.0;2237.0;No;Recursos Humanos
+Lilia;Femenino;Divorciado(a);42.0;16.0;3796.0;No;Ventas
+Lino;Masculino;Casado(a);26.0;5.0;2662.0;No;Legal
+Lorenzo;Masculino;Soltero(a);24.0;3.0;2335.0;No;Recursos Humanos
+Loreto;Masculino;Soltero(a);22.0;3.0;2492.0;No;Producto
+Loreto;Masculino;Soltero(a);21.0;3.0;2432.0;No;Producto
+Lucho;Masculino;Divorciado(a);40.0;3.0;2385.0;No;Finanzas
+Lucho;Masculino;Casado(a);22.0;4.0;2507.0;No;Ventas
+Lucio;Masculino;Soltero(a);54.0;12.0;3317.0;No;Recursos Humanos
+Lucio;Masculino;Soltero(a);54.0;12.0;3317.0;No;Recursos Humanos
+Luis;Masculino;Divorciado(a);51.0;25.0;4681.0;No;Comercial
+Luisa;Femenino;Soltero(a);29.0;5.0;2648.0;No;Contabilidad
+Luisa;Femenino;Soltero(a);47.0;9.0;3020.0;No;Legal
+Luna;Femenino;Soltero(a);35.0;6.0;2772.0;No;Recursos Humanos
+Lupita;Femenino;Casado(a);44.0;14.0;3532.0;No;Producto
+Luz;Femenino;Divorciado(a);29.0;4.0;2592.0;No;Servicios al cliente
+Manola;Femenino;Soltero(a);40.0;9.0;3023.0;No;IT
+Marcelo;Masculino;Divorciado(a);44.0;15.0;3616.0;No;IT
+Maristela;Femenino;Soltero(a);38.0;11.0;3256.0;No;Publicidad
+Marta;Femenino;Soltero(a);51.0;5.0;2651.0;No;Comercial
+Max;Masculino;Divorciado(a);39.0;8.0;2953.0;No;Ventas
+Melisa;Femenino;Soltero(a);24.0;3.0;2362.0;No;Legal
+Miriam;Femenino;Soltero(a);38.0;1.0;1999.0;No;Contabilidad
+Odalis;Femenino;Soltero(a);31.0;2.0;2262.0;No;Servicios al cliente
+Olegario;Masculino;Divorciado(a);49.0;5.0;2626.0;No;Recursos Humanos
+Olga;Femenino;Divorciado(a);32.0;4.0;2573.0;No;Legal
+Olivia;Femenino;Casado(a);26.0;5.0;2655.0;No;Ventas
+Onofre;Masculino;Soltero(a);18.0;1.0;2067.0;No;IT
+Otilia;Femenino;Divorciado(a);42.0;8.0;2990.0;No;Servicios al cliente
+Pastora;Femenino;Divorciado(a);28.0;5.0;2631.0;No;Comercial
+Pastora;Femenino;Casado(a);51.0;8.0;2995.0;Sí;Reclutamiento
+Paula;Femenino;Divorciado(a);55.0;12.0;3306.0;No;Producto
+Paulino;Masculino;Soltero(a);59.0;15.0;3641.0;No;Legal
+Rafaela;Femenino;Casado(a);44.0;11.0;3292.0;No;Finanzas
+Regina;Femenino;Divorciado(a);19.0;1.0;2033.0;No;Comercial
+Reyes;Femenino;Soltero(a);27.0;4.0;2508.0;No;Producto
+Richard;Masculino;Divorciado(a);34.0;7.0;2804.0;No;Servicios al cliente
+Ronald;Masculino;Soltero(a);23.0;5.0;2695.0;No;Servicios al cliente
+Rosenda;Femenino;Casado(a);30.0;4.0;2596.0;No;IT
+Ruperta;Femenino;Casado(a);54.0;18.0;3962.0;No;Producto
+Samanta;Femenino;Casado(a);20.0;2.0;2298.0;No;IT
+Santiago;Masculino;Soltero(a);19.0;1.0;1920.0;No;Legal
+Sean;Masculino;Soltero(a);36.0;2.0;2114.0;No;Ventas
+Selena;Femenino;Casado(a);24.0;6.0;2709.0;Sí;Contabilidad
+Selena;Femenino;Casado(a);24.0;6.0;2709.0;Sí;Contabilidad
+Shaun;Masculino;Casado(a);28.0;6.0;2796.0;No;Comercial
+Soledad;Femenino;Divorciado(a);21.0;3.0;2477.0;No;IT
+Soraya;Femenino;Soltero(a);38.0;4.0;2546.0;No;Legal
+Soraya;Femenino;Divorciado(a);19.0;1.0;2037.0;No;Servicios al cliente
+Susanita;Femenino;Soltero(a);33.0;4.0;2581.0;No;Recursos Humanos
+Susanita;Femenino;Casado(a);23.0;2.0;2228.0;No;Legal
+Teo;Masculino;Casado(a);23.0;5.0;2643.0;No;Publicidad
+Teodora;Femenino;Casado(a);71.0;32.0;5332.0;No;Comercial
+Tim;Masculino;Divorciado(a);22.0;4.0;2518.0;No;Recursos Humanos
+Victoriano;Masculino;Casado(a);20.0;2.0;2110.0;No;Servicios al cliente
+Vito;Masculino;Divorciado(a);22.0;4.0;2530.0;No;Producto
+Ximena;Femenino;Soltero(a);58.0;24.0;4532.0;No;Legal
+Yesica;Femenino;Divorciado(a);19.0;1.0;1935.0;No;Comercial
+Yolanda;Femenino;Divorciado(a);46.0;1.0;1939.0;No;Contabilidad
