@@ -1,4 +1,6 @@
 #En este file copio los codigos del video, mi version es el notebook
+#Algunos nombres cambiados
+
 import csv
 import pandas as pd
 
@@ -12,10 +14,19 @@ print(df.shape)
 print(df.isnull().sum())
 print(df.notnull().sum())
 print(df[df.isnull().any(axis=1)])
+
+#Eliminar duplicated columns
 df_act=df.drop(axis=1,columns=['Apellido'])
+
+#Drop NaN values
 df_actualizado=df_act.dropna(axis=0)
 print(df_actualizado)
 
 #Eliminacion de algunas files que tienen al menos 5 filas no validas
 df_actualizado=df_act.dropna(axis=0,thresh=5)
+
+
+#Eliminar filas duplicadas
+duplicados=df_actualizado.duplicated()
+print(df_actualizado[duplicados])
 
