@@ -28,5 +28,5 @@
 		"ms-python.vscode-pylance"
 	],
 	"remoteUser": "vscode",
-	"onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc" //Set Terminal Prompt to $
+	"onCreateCommand": "bash .devcontainer/setup-ml.sh && echo PS1='\"$ \"' >> ~/.bashrc" //Set Terminal Prompt to $
 }
