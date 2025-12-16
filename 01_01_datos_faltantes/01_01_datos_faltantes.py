@@ -29,4 +29,7 @@ df_actualizado=df_act.dropna(axis=0,thresh=5)
 #Eliminar filas duplicadas
 duplicados=df_actualizado.duplicated()
 print(df_actualizado[duplicados])
+df=df_actualizado.drop_duplicates()
 
+#Imputacion de datos con relleno de media de edad
+df.shape
